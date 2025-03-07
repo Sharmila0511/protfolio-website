@@ -18,7 +18,7 @@ I am a web developer with experience in HTML, CSS, JavaScript, Java, and MySQL. 
 
 
  📸 Homepage Preview  
-![Homepage Screenshot](protfolio-website/files/homepage.PNG)
+![Homepage Screenshot](Portfolio-Website-master/files/homepage.PNG)
 
  📸 Projects Section Preview  
-![Projects Screenshot](protfolio-website/files/projects.PNG)
+![Projects Screenshot](Portfolio-Website-master/files/projects.PNG)
